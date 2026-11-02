@@ -2,11 +2,313 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Riigikohtu uued lahendid</title>
-    <link>https://rikos.rik.ee/Lahendid?aasta=2026</link>
+    <link>https://rikos.rik.ee/?otsuseKpalgus=05.07.2026&amp;otsuseKpLopp=02.11.2026&amp;pageSize=100&amp;sortVaartus=LahendiKuulutamiseAeg&amp;sortAsc=false</link>
     <description>Riigikohtu viimased avaldatud lahendid</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>et</language>
-    <lastBuildDate>Mon, 02 Nov 2026 14:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:30:55 +0000</lastBuildDate>
+    <item>
+      <title>2-23-5567/31 | 05.08.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-23-5567%2F31</link>
+      <description>Kohtuotsus | Leluselja Jahiseltsi kassatsioonkaebus Tallinna Ringkonnakohtu 17.10.2025 otsuse peale Leluselja Jahiseltsi hagis Eesti Vabariigi (Riigimetsa Majandamise Keskuse kaudu) vastu kohustuse täitmisena saadu tagasinõudmiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-23-5567%2F31</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-23-5346/30 | 05.08.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-23-5346%2F30</link>
+      <description>Kohtuotsus | I.K. kassatsioonkaebus Tallinna Ringkonnakohtu 05.12.2025 otsuse peale I.K. hagis L.S. vastu piirdeaia eemaldamisest hoidumiseks kohustamiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-23-5346%2F30</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-25-14764/28 | 05.08.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-25-14764%2F28</link>
+      <description>Kohtumäärus | Tomson Toys OÜ määruskaebus Tallinna Ringkonnakohtu 31.10.2025 määruse peale Ty Inc. hagis Tomson Toys OÜ vastu ettevõte ülemineku tuvastamiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-25-14764%2F28</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-25-7369/15 | 07.08.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-25-7369%2F15</link>
+      <description>Kohtumäärus | Bondora AS-i määruskaebus Tartu Ringkonnakohtu 27.01.2026 määruse peale Bondora AS-i hagis Olga Nesterenko vastu võla nõudes</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-25-7369%2F15</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-19-15672/152 | 12.08.2026</title>
+      <link>https://rikos.rik.ee/LahendiOtsingEriVaade?asjaNr=2-19-15672</link>
+      <description>Kohtuotsus | Marko Lastiku kassatsioonkaebus Tallinna Ringkonnakohtu 09.01.2026 otsuse peale Larix Partners OÜ hagis Marko Lastiku vastu võla saamiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/LahendiOtsingEriVaade?asjaNr=2-19-15672</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3-23-846/25 | 19.08.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=3-23-846%2F25</link>
+      <description>Esialgse õiguskaitse määrus | XXX kassatsioonkaebus Tallinna Ringkonnakohtu 22.10.2025 otsuse peale XXX kaebuses Politsei- ja Piirivalveameti otsuse tühistamiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=3-23-846%2F25</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5-26-29/2 | 25.08.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=5-26-29%2F2</link>
+      <description>Kohtumäärus | OÜ Wisemen Grupp taotlus hinnata tsiviilkohtumenetluse seadustiku (TsMS) § 390 lg 1 põhiseaduspärasust</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=5-26-29%2F2</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5-26-31/2 | 01.09.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=5-26-31%2F2</link>
+      <description>Kohtumäärus | Marika Lauriku kaebus Vabariigi Valimiskomisjoni tegevuse peale</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=5-26-31%2F2</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5-26-30/2 | 01.09.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=5-26-30%2F2</link>
+      <description>Kohtuotsus | Arvo Alleri, Rain Epleri, Helle-Moonika Helme, Mart Helme, Martin Helme, Rene Koka (Kokk), Siim Pohlaku, Anti Poolametsa ja Evelin Poolametsa kaebus Vabariigi Valimiskomisjoni 25.08.2026. a otsuse nr 100 peale.</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=5-26-30%2F2</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3-26-1048/10 | 01.09.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=3-26-1048%2F10</link>
+      <description>Kohtumäärus | XXX määruskaebus Tartu Ringkonnakohtu 27.05.2026 määruse peale XXX kaebuses Tartu Ülikooli kohustamiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=3-26-1048%2F10</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3-25-2711/19 | 07.09.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=3-25-2711%2F19</link>
+      <description>Kohtumäärus | Jaak Reinomäe määruskaebus Tartu Ringkonnakohtu 1.04.2026 määruse peale Jaak Reinomäe kaebuses Eesti Advokatuuri vastu</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=3-25-2711%2F19</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5-26-26/12 | 14.09.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=5-26-26%2F12</link>
+      <description>Kohtumäärus | Tartu Halduskohtu taotlus tunnistada põhiseadusega vastuolus olevaks perehüvitiste seaduse PHS § 39 lg 3 p-i 2, mille kohaselt enneaegsete laste vanemate jagatav vanemahüvitise arvestusperiood arvutatakse
+lapse tegeliku sünnikuupäeva järgi. PHS § 39 lg 3 st. enneaegsete laste vanemate jagatav vanemahüvitis tuleks arvutada lapse eeldatava sünnikuupäeva järgi PHS § 39 lg 3 punktis 1 märgitud ema vanemahüvitise arvestusperioodi alusel</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=5-26-26%2F12</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3-24-2369/48 | 14.09.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=3-24-2369%2F48</link>
+      <description>Esialgse õiguskaitse määrus | XXX määruskaebus Tallinna Ringkonnakohtu 29.07.2026 määruse peale XXX kaebuses Politsei- ja Piirivalveameti otsuse tühistamiseks või alternatiivselt Politsei- ja Piirivalveameti kohustamiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=3-24-2369%2F48</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5-26-6/30 | 15.09.2026</title>
+      <link>https://rikos.rik.ee/LahendiOtsingEriVaade?asjaNr=5-26-6</link>
+      <description>Asjade ühendamise määrus | Tartu Ringkonnakohtu taotlused tunnistada põhiseadusega vastuolus olevaks karistusregistri seaduse § 28 ls 2 osas, mille kohaselt tuleb avalikustatud kohtulahendis jätta isiku nimi asendamata, kui ta on tunnistatud süüdi karistusseadustiku § 184 järgi</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/LahendiOtsingEriVaade?asjaNr=5-26-6</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3-24-365/17 | 17.09.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=3-24-365%2F17</link>
+      <description>Kohtumäärus | Päraküla selts MTÜ määruskaebus Tallinna Ringkonnakohtu 26.03.2025 määruse peale Päraküla selts MTÜ kaebuses Keskkonnaameti poolt registreeritud metsateatise õigusvastuse tuvastamiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=3-24-365%2F17</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5-26-33/2 | 17.09.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=5-26-33%2F2</link>
+      <description>Kohtumäärus | Arko Oki kaebus Vabariigi Valimiskomisjoni 10.09.2026 otsuse nr 103 peale</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=5-26-33%2F2</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1-25-4251/50 | 24.09.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=1-25-4251%2F50</link>
+      <description>Kohtuotsus | Viru Ringkonnaprokuratuuri ringkonnaprokuröri Paul Pikma kassatsioon Tartu Ringkonnakohtu 19. märtsi 2026. a otsuse peale kriminaalasjas Stanislav Jankovski süüdistuses KarS § 157³ lg 1 ja § 404 lg 1 järgi.</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=1-25-4251%2F50</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5-26-34/2 | 25.09.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=5-26-34%2F2</link>
+      <description>Kohtumäärus | MTÜ Ausad Valimised kaebus Vabariigi Valimiskomisjoni toimingu peale</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=5-26-34%2F2</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5-26-6/38 | 29.09.2026</title>
+      <link>https://rikos.rik.ee/LahendiOtsingEriVaade?asjaNr=5-26-6</link>
+      <description>Kohtuotsus | Tartu Ringkonnakohtu taotlused tunnistada põhiseadusega vastuolus olevaks karistusregistri seaduse § 28 ls 2 osas, mille kohaselt tuleb avalikustatud kohtulahendis jätta isiku nimi asendamata, kui ta on tunnistatud süüdi karistusseadustiku § 184 järgi</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/LahendiOtsingEriVaade?asjaNr=5-26-6</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5-26-25/14 | 29.09.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=5-26-25%2F14</link>
+      <description>Kohtuotsus | Tartu Ringkonnakohtu taotlus tunnistada karistusregistri seaduse § 28 ls 2 põhiseadusega vastuolus olevaks ja jätta see kohaldamata osas, mille kohaselt tuleb avalikustatud kohtulahendis jätta isiku nimi asendamata, kui ta on tunnistatud süüdi karistusseadustiku § 404 järgi</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=5-26-25%2F14</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3-22-990/28 | 30.09.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=3-22-990%2F28</link>
+      <description>Kolleegiumi kogu koosseisule andmise määrus | Kaebajate kassatsioonkaebus Tartu Ringkonnakohtu 16.10.2025 otsuse peale kaebajate kaebuses Maksu- ja Tolliameti, Kaitsepolitseiameti ja prokuratuuri tegevuse õigusvastasuse tuvastamiseks ning mittevaralise kahju hüvitamiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=3-22-990%2F28</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5-24-5/27 | 30.09.2026</title>
+      <link>https://rikos.rik.ee/LahendiOtsingEriVaade?asjaNr=5-24-5</link>
+      <description>Menetluse uuendamise määrus | Erakond Eestimaa Rohelised kaebus Vabariigi Valimiskomisjoni 29.04.2024 otsuse nr 102 peale</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/LahendiOtsingEriVaade?asjaNr=5-24-5</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-22-17517/125 | 01.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-22-17517%2F125</link>
+      <description>Kohtuotsus | Osaühingu Simuna Ivax kassatsioonkaebus ja OÜ AGRILAND kassatsioonkaebus Tartu Ringkonnakohtu 05.12.2025 otsuse peale OÜ AGRILAND hagis Osaühingu Simuna Ivax vastu müügilepingu täitmise nõudes ning Osaühingu Simuna Ivax vastuhagis OÜ AGRILAND vastu kahju hüvitamise nõudes</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-22-17517%2F125</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3-25-3867/12 | 01.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=3-25-3867%2F12</link>
+      <description>Kohtumäärus | XXX ja XXX määruskaebus Tallinna Ringkonnakohtu 6.01.2026 määruse peale Maksu- ja Tolliameti taotluses täitmist tagavate toimingute sooritamise loa saamiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=3-25-3867%2F12</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-25-4027/75 | 07.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-25-4027%2F75</link>
+      <description>Kohtumäärus | A.P. määruskaebus Tallinna Ringkonnakohtu 26.01.2026 määruse peale Tallinna linna avalduses A.P-lt ja A.A-lt lapse hooldusõiguse äravõtmiseks ja lapsele eestkostja määramiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-25-4027%2F75</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1-26-4179/14 | 08.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=1-26-4179%2F14</link>
+      <description>Kohtumäärus | A esindaja vandeadvokaat Aro Siinmaa määruskaebus Tartu Ringkonnakohtu 15. juuni 2026.a määruse peale. Riigiprokuratuuri 8. mai 2026.a määruse vaidlustamine</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=1-26-4179%2F14</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3-22-2689/39 | 08.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=3-22-2689%2F39</link>
+      <description>Kohtuotsus | XXX kassatsioonkaebus Tallinna Ringkonnakohtu 10.01.2025 otsuse peale XXX kaebuses Eesti Töötukassa otsuste tühistamiseks ning vastustaja kohustamiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=3-22-2689%2F39</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3-23-2349/48 | 12.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=3-23-2349%2F48</link>
+      <description>Kohtuotsus | XXX kassatsioonkaebus Tartu Ringkonnakohtu 19.02.2026 otsuse peale XXX kaebuses Viru Vangla tekitatud mittevaralise kahju hüvitamiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=3-23-2349%2F48</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-21-19798/92 | 14.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-21-19798%2F92</link>
+      <description>Kohtuotsus | AS-i LHV Pank ja Kohila tn Muuseumi Arendus OÜ (pankrotis) pankrotihalduri Indrek Lepsoo kassatsioonkaebus ja Advokaadibüroo WIDEN OÜ vastukassatsioonkaebus Tallinna Ringkohtu 26.08.2025.a otsuse peale 	AS-i LHV Pank ja Kohila tn Muuseumi Arendus OÜ (pankrotis) pankrotihalduri Indrek Lepsoo hagis Advokaadibüroo WIDEN OÜ (endine Advokaadibüroo LEXTAL OÜ) vastu kahju hüvitamiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-21-19798%2F92</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-23-5185/59 | 14.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-23-5185%2F59</link>
+      <description>Kohtuotsus | J.M. kassatsioonkaebus Tartu Ringkonnakohtu 18.12.2025 otsuse peale I.S. hagis J.M. vastu seltsinguvara jagamiseks ning J.M. vastuhagis kinnisasja ebaseaduslikust valdusest väljanõudmiseks ja kasutuseeliste saamiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-23-5185%2F59</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>4-26-693/11 | 15.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=4-26-693%2F11</link>
+      <description>Kohtuotsus | A kaitsjate vandeadvokaat Gregori Palmi ja vandeadvokaadi abi Annabel Saluri kassatsioon Pärnu Maakohtu 14. aprilli 2026. a otsuse peale A väärteoasjas korruptsioonivastase seaduse § 19 järgi.</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=4-26-693%2F11</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1-23-7004/16 | 19.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=1-23-7004%2F16</link>
+      <description>Kohtuotsus | A kaitsja vandeadvokaat Vladimir Sadekovi teistmisavaldus Harju Maakohtu 18. detsembri 2023. a otsuse peale kriminaalasjas A süüditunnistamises KarS § 133² lg 1 järgi.</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=1-23-7004%2F16</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-16-14682/140 | 21.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-16-14682%2F140</link>
+      <description>Kolleegiumi kogu koosseisule andmise määrus | Kaja Kasemetsa, Aivar Haugi, Svetlana Vahteri, Ene Sepa, Rolf-Pelle Laasi määruskaebus Tallinna Ringkonnakohtu 31.07.2025 määruse peale Margit Eskeni ja Egert Eskeni (Urmas Eskeni õigusjärglased) avalduses Kaja Kasemetsa, Aivar Haugi, Ene Sepa ja Rolf-Pelle Laasi vastu endise olukorra taastamise nõudes; Margit Eskeni ja Egert Eskeni avalduses Kaja Kasemetsa, Aivar Haugi, Svetlana Vahteri, Ene Sepa ja Rolf-Pelle Laasi vastu erikasutusõiguse kokkulepe sõlmimiseks ja kinnistusraamatusse kandmiseks vajalike tahteavalduste andmiseks või tahteavalduste kohtulahendiga asendamiseks; Kaja Kasemetsa, Svetlana Vahteri, Ene Sepa ja Rolf-Pelle Laasi vastuavalduses Margit Eskeni ja Egert Eskeni vastu grillmaja lammutamiseks kohustamiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-16-14682%2F140</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-25-16902/69 | 21.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</link>
+      <description>Kohtumäärus | Aktsiaseltsi NT Bunkering panktortihalduri Margus Lentsiuse määruskaebus Tallinna Ringkonnakohtu 13.02.2026 määruse peale 	Aktsiaseltsi NT Bunkering pankrotiavalduses</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5-26-41/2 | 21.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=5-26-41%2F2</link>
+      <description>Asjade ühendamise määrus | Õiguskantsleri taotlus tunnistada põhiseadusvastaseks ja kehtetuks Räpina Vallavolikogu 19.04.2023. a määruse nr 6 „Hooldustöötajate ja abihooldustöötajate kulude tasumise piirmäära kehtestamine“ § 1</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=5-26-41%2F2</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3-25-3207/22 | 21.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=3-25-3207%2F22</link>
+      <description>Kohtumäärus | XXX määruskaebus Tartu Ringkonnakohtu 8.01.2026 määruse peale XXX kaebuses Tartu Vangla peale</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=3-25-3207%2F22</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-22-10417/156 | 23.10.2026</title>
+      <link>https://rikos.rik.ee/LahendiOtsingEriVaade?asjaNr=2-22-10417</link>
+      <description>Kohtumäärus | /DIGITAALNE MENETLUS/ Tallinna Tehnikaülikooli kassatsioonkaebus Tallinna Ringkonnakohtu 27.03.2026 otsuse peale Tallinna Tehnikaülikooli hagis AKTSIASELTSI TALLINNA VESI vastu õigusvastaselt tekitatud kahju hüvitamiseks, alternatiivselt lepinguliste kohustuste rikkumisest tuleneva kahju hüvitamiseks või alusetust rikastumisest tuleneva hüvitise maksmiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/LahendiOtsingEriVaade?asjaNr=2-22-10417</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>4-25-2839/33 | 23.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=4-25-2839%2F33</link>
+      <description>Kohtuotsus | Kiviõli Keemiatööstuse Osaühingu kaitsja vandeadvokaat Rauno Ligi kassatsioon Viru Maakohtu 30. jaanuari 2026. a otsuse peale Kiviõli Keemiatööstuse Osaühingu väärteoasjas tööstusheite seaduse § 162 lg 2 järgi.</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=4-25-2839%2F33</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3-22-990/29 | 23.10.2026</title>
+      <link>https://rikos.rik.ee/LahendiOtsingEriVaade?asjaNr=3-22-990</link>
+      <description>Üldkogule andmise määrus | Kaebajate kassatsioonkaebus Tartu Ringkonnakohtu 16.10.2025 otsuse peale kaebajate kaebuses Maksu- ja Tolliameti, Kaitsepolitseiameti ja prokuratuuri tegevuse õigusvastasuse tuvastamiseks ning mittevaralise kahju hüvitamiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/LahendiOtsingEriVaade?asjaNr=3-22-990</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-22-11758/70 | 28.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-22-11758%2F70</link>
+      <description>Kohtuotsus | Suur-Ameerika Jäähalli OÜ (likvideerimisel) kassatsioonkaebus Tallinna Ringkonnakohtu 16.01.2026 otsuse peale OÜ EJHL Kinnisvara hagis Suur Ameerika Jäähalli OÜ (likvideerimisel) vastu 567 966,67 eurot ja viivise väljamõistmiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-22-11758%2F70</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>4-25-4722/12 | 30.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=4-25-4722%2F12</link>
+      <description>Kohtuotsus | A kaitsja vandeadvokaat Indrek Lillo kassatsioon Harju Maakohtu 28. aprilli 2026. a otsuse peale A väärteoasjas liiklusseaduse 227 lg 1 järgi.</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=4-25-4722%2F12</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>4-26-1180/22 | 02.11.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=4-26-1180%2F22</link>
+      <description>Kohtuotsus | Maksu- ja Tolliameti kassatsioonkaebus Harju Maakohtu 11. juuni 2026. a otsuse peale German Krongauzi väärteoasjas rahvusvahelise sanktsiooni seaduse § 36¹ lg 1 järgi.</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=4-26-1180%2F22</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1-24-3750/109 | 02.11.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=1-24-3750%2F109</link>
+      <description>Kolleegiumi kogu koosseisule andmise määrus | Svetlana Burceva kaitsja vandeadvokaat Sven Sillari kassatsioon Tallinna Ringkonnakohtu 9. oktoobri 2025. a otsuse peale kriminaalasjas Svetlana Burceva süüdistuses KarS §-de 93¹ lg 1 ja 232 lg 1 järgi.</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=1-24-3750%2F109</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
