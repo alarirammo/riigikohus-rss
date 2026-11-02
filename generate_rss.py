@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from urllib.parse import quote
 import re
 
-URL = "URL = "https://rikos.rik.ee/Lahendid?aasta=2026"
+URL = "https://rikos.rik.ee/Lahendid?aasta=2026"
 CASE_RE = re.compile(r"\b[1-5]-\d{2,4}-\d+(?:/\d+)?\b")
 DATE_RE = re.compile(r"\b\d{2}\.\d{2}\.\d{4}\b")
 
