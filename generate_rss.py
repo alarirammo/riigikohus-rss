@@ -14,6 +14,9 @@ with sync_playwright() as p:
     page.goto(URL, wait_until="networkidle", timeout=60000)
     page.wait_for_timeout(3000)
     text = page.locator("body").inner_text()
+    print("===== RIK PAGE CONTENT =====")
+    print(text)
+    print("===== END CONTENT =====")
     browser.close()
 
 lines = [x.strip() for x in text.splitlines() if x.strip()]
