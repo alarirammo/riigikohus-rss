@@ -13,7 +13,7 @@ DATE_RE = re.compile(r"\b\d{2}\.\d{2}\.\d{4}\b")
 def fetch_html():
     today = datetime.now().date()
     params = {
-        "otsuseKpalgus": (today - timedelta(days=120)).strftime("%d.%m.%Y"),
+        "otsuseKpalgus": (today - timedelta(days=30)).strftime("%d.%m.%Y"),
         "otsuseKpLopp": today.strftime("%d.%m.%Y"),
         "pageSize": "100",
         "sortVaartus": "LahendiKuulutamiseAeg",
