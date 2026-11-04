@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>et</language>
-    <lastBuildDate>Wed, 04 Nov 2026 07:28:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:15:23 +0000</lastBuildDate>
     <item>
       <title>2-25-4027/75 | 07.10.2026</title>
       <link>https://rikos.rik.ee/?asjaNr=2-25-4027%2F75</link>
@@ -72,6 +72,13 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>2-25-16902/69 | 21.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</link>
+      <description>Kohtumäärus | Aktsiaseltsi NT Bunkering panktortihalduri Margus Lentsiuse määruskaebus Tallinna Ringkonnakohtu 13.02.2026 määruse peale 	Aktsiaseltsi NT Bunkering pankrotiavalduses</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>5-26-41/2 | 21.10.2026</title>
       <link>https://rikos.rik.ee/?asjaNr=5-26-41%2F2</link>
       <description>Asjade ühendamise määrus | Õiguskantsleri taotlus tunnistada põhiseadusvastaseks ja kehtetuks Räpina Vallavolikogu 19.04.2023. a määruse nr 6 „Hooldustöötajate ja abihooldustöötajate kulude tasumise piirmäära kehtestamine“ § 1</description>
@@ -83,13 +90,6 @@
       <link>https://rikos.rik.ee/?asjaNr=3-25-3207%2F22</link>
       <description>Kohtumäärus | XXX määruskaebus Tartu Ringkonnakohtu 8.01.2026 määruse peale XXX kaebuses Tartu Vangla peale</description>
       <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=3-25-3207%2F22</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2-25-16902/69 | 21.10.2026</title>
-      <link>https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</link>
-      <description>Kohtumäärus | Aktsiaseltsi NT Bunkering panktortihalduri Margus Lentsiuse määruskaebus Tallinna Ringkonnakohtu 13.02.2026 määruse peale 	Aktsiaseltsi NT Bunkering pankrotiavalduses</description>
-      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -140,6 +140,27 @@
       <description>Kolleegiumi kogu koosseisule andmise määrus | Svetlana Burceva kaitsja vandeadvokaat Sven Sillari kassatsioon Tallinna Ringkonnakohtu 9. oktoobri 2025. a otsuse peale kriminaalasjas Svetlana Burceva süüdistuses KarS §-de 93¹ lg 1 ja 232 lg 1 järgi.</description>
       <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=1-24-3750%2F109</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-25-7954/37 | 04.11.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-25-7954%2F37</link>
+      <description>Kohtumäärus | Kohtutäituri Kaire Põltsi määruskaebus Tallinna Ringkonnakohtu 06.03.2026 määruse peale Kristo Sootalu kaebuses kohtutäituri Kaire Põltsi 19. mai 2025. a otsusele täiteasjas 025/2017/3189</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-25-7954%2F37</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>1-25-5899/23 | 04.11.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=1-25-5899%2F23</link>
+      <description>Kohtuotsus | Tarmo Sõmera kaitsja vandeadvokaat Mihkel Gaveri teistmisavaldus Tartu Maakohtu 27. oktoobri 2025. a otsuse peale kriminaalasjas Tarmo Sõmera süüditunnistamises KarS § 184 lg 2 p 1 järgi.</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=1-25-5899%2F23</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-24-4163/69 | 04.11.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-24-4163%2F69</link>
+      <description>Kohtumäärus | P.E. määruskaebus Tallinna Ringkonnakohtu 30.03.2026 määruse peale P.E. avalduses A.E. vastu alaealise lapse suhtes ühise hooldusõiguse lõpetamiseks ning ainuhooldusõiguse või osalise hooldusõiguse andmiseks avaldajale</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-24-4163%2F69</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
