@@ -2,12 +2,12 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Riigikohtu uued lahendid</title>
-    <link>https://rikos.rik.ee/?otsuseKpalgus=04.10.2026&amp;otsuseKpLopp=03.11.2026&amp;pageSize=100&amp;sortVaartus=LahendiKuulutamiseAeg&amp;sortAsc=false</link>
+    <link>https://rikos.rik.ee/?otsuseKpalgus=05.10.2026&amp;otsuseKpLopp=04.11.2026&amp;pageSize=100&amp;sortVaartus=LahendiKuulutamiseAeg&amp;sortAsc=false</link>
     <description>Riigikohtu viimased avaldatud lahendid</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>et</language>
-    <lastBuildDate>Tue, 03 Nov 2026 19:28:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 00:35:35 +0000</lastBuildDate>
     <item>
       <title>2-25-4027/75 | 07.10.2026</title>
       <link>https://rikos.rik.ee/?asjaNr=2-25-4027%2F75</link>
