@@ -2,19 +2,12 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Riigikohtu uued lahendid</title>
-    <link>https://rikos.rik.ee/?otsuseKpalgus=07.10.2026&amp;otsuseKpLopp=06.11.2026&amp;pageSize=100&amp;sortVaartus=LahendiKuulutamiseAeg&amp;sortAsc=false</link>
+    <link>https://rikos.rik.ee/?otsuseKpalgus=08.10.2026&amp;otsuseKpLopp=07.11.2026&amp;pageSize=100&amp;sortVaartus=LahendiKuulutamiseAeg&amp;sortAsc=false</link>
     <description>Riigikohtu viimased avaldatud lahendid</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>et</language>
-    <lastBuildDate>Fri, 06 Nov 2026 23:05:04 +0000</lastBuildDate>
-    <item>
-      <title>2-25-4027/75 | 07.10.2026</title>
-      <link>https://rikos.rik.ee/?asjaNr=2-25-4027%2F75</link>
-      <description>Kohtumäärus | A.P. määruskaebus Tallinna Ringkonnakohtu 26.01.2026 määruse peale Tallinna linna avalduses A.P-lt ja A.A-lt lapse hooldusõiguse äravõtmiseks ja lapsele eestkostja määramiseks</description>
-      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-25-4027%2F75</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Nov 2026 02:46:16 +0000</lastBuildDate>
     <item>
       <title>1-26-4179/14 | 08.10.2026</title>
       <link>https://rikos.rik.ee/?asjaNr=1-26-4179%2F14</link>
