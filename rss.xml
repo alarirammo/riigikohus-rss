@@ -2,26 +2,12 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Riigikohtu uued lahendid</title>
-    <link>https://rikos.rik.ee/?otsuseKpalgus=08.10.2026&amp;otsuseKpLopp=07.11.2026&amp;pageSize=100&amp;sortVaartus=LahendiKuulutamiseAeg&amp;sortAsc=false</link>
+    <link>https://rikos.rik.ee/?otsuseKpalgus=09.10.2026&amp;otsuseKpLopp=08.11.2026&amp;pageSize=100&amp;sortVaartus=LahendiKuulutamiseAeg&amp;sortAsc=false</link>
     <description>Riigikohtu viimased avaldatud lahendid</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>et</language>
-    <lastBuildDate>Sat, 07 Nov 2026 20:51:15 +0000</lastBuildDate>
-    <item>
-      <title>1-26-4179/14 | 08.10.2026</title>
-      <link>https://rikos.rik.ee/?asjaNr=1-26-4179%2F14</link>
-      <description>Kohtumäärus | A esindaja vandeadvokaat Aro Siinmaa määruskaebus Tartu Ringkonnakohtu 15. juuni 2026.a määruse peale. Riigiprokuratuuri 8. mai 2026.a määruse vaidlustamine</description>
-      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=1-26-4179%2F14</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>3-22-2689/39 | 08.10.2026</title>
-      <link>https://rikos.rik.ee/?asjaNr=3-22-2689%2F39</link>
-      <description>Kohtuotsus | XXX kassatsioonkaebus Tallinna Ringkonnakohtu 10.01.2025 otsuse peale XXX kaebuses Eesti Töötukassa otsuste tühistamiseks ning vastustaja kohustamiseks</description>
-      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=3-22-2689%2F39</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Nov 2026 00:32:27 +0000</lastBuildDate>
     <item>
       <title>3-23-2349/48 | 12.10.2026</title>
       <link>https://rikos.rik.ee/?asjaNr=3-23-2349%2F48</link>
