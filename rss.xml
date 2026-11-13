@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>et</language>
-    <lastBuildDate>Fri, 13 Nov 2026 00:17:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 07:53:18 +0000</lastBuildDate>
     <item>
       <title>2-21-19798/92 | 14.10.2026</title>
       <link>https://rikos.rik.ee/?asjaNr=2-21-19798%2F92</link>
@@ -190,6 +190,13 @@ töökord“ peale.</description>
       <description>Kohtuotsus | Aleviku tee OÜ ja COMBICON OÜ kassatsioonkaebus Tallinna Ringkonnakohtu 11.06.2025 otsuse peale Aleviku tee OÜ ja COMBICON OÜ kaebuses Rae Vallavalitsuse keeldumise peale</description>
       <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=3-23-1274%2F24</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>4-25-4787/31 | 13.11.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=4-25-4787%2F31</link>
+      <description>Kohtuotsus | A kaitsja vandeadvokaat Indrek Sirgi kassatsioon Pärnu Maakohtu 12. mai 2026. a otsuse peale A väärteoasjas liiklusseaduse § 261 lg 1 järgi.</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=4-25-4787%2F31</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
