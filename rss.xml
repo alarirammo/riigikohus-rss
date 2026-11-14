@@ -2,26 +2,12 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Riigikohtu uued lahendid</title>
-    <link>https://rikos.rik.ee/?otsuseKpalgus=14.10.2026&amp;otsuseKpLopp=13.11.2026&amp;pageSize=100&amp;sortVaartus=LahendiKuulutamiseAeg&amp;sortAsc=false</link>
+    <link>https://rikos.rik.ee/?otsuseKpalgus=15.10.2026&amp;otsuseKpLopp=14.11.2026&amp;pageSize=100&amp;sortVaartus=LahendiKuulutamiseAeg&amp;sortAsc=false</link>
     <description>Riigikohtu viimased avaldatud lahendid</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>et</language>
-    <lastBuildDate>Fri, 13 Nov 2026 22:35:08 +0000</lastBuildDate>
-    <item>
-      <title>2-21-19798/92 | 14.10.2026</title>
-      <link>https://rikos.rik.ee/?asjaNr=2-21-19798%2F92</link>
-      <description>Kohtuotsus | AS-i LHV Pank ja Kohila tn Muuseumi Arendus OÜ (pankrotis) pankrotihalduri Indrek Lepsoo kassatsioonkaebus ja Advokaadibüroo WIDEN OÜ vastukassatsioonkaebus Tallinna Ringkohtu 26.08.2025.a otsuse peale 	AS-i LHV Pank ja Kohila tn Muuseumi Arendus OÜ (pankrotis) pankrotihalduri Indrek Lepsoo hagis Advokaadibüroo WIDEN OÜ (endine Advokaadibüroo LEXTAL OÜ) vastu kahju hüvitamiseks</description>
-      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-21-19798%2F92</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2-23-5185/59 | 14.10.2026</title>
-      <link>https://rikos.rik.ee/?asjaNr=2-23-5185%2F59</link>
-      <description>Kohtuotsus | J.M. kassatsioonkaebus Tartu Ringkonnakohtu 18.12.2025 otsuse peale I.S. hagis J.M. vastu seltsinguvara jagamiseks ning J.M. vastuhagis kinnisasja ebaseaduslikust valdusest väljanõudmiseks ja kasutuseeliste saamiseks</description>
-      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-23-5185%2F59</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Nov 2026 03:10:25 +0000</lastBuildDate>
     <item>
       <title>4-26-693/11 | 15.10.2026</title>
       <link>https://rikos.rik.ee/?asjaNr=4-26-693%2F11</link>
