@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>et</language>
-    <lastBuildDate>Sat, 14 Nov 2026 17:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 21:25:59 +0000</lastBuildDate>
     <item>
       <title>4-26-693/11 | 15.10.2026</title>
       <link>https://rikos.rik.ee/?asjaNr=4-26-693%2F11</link>
@@ -30,13 +30,6 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>2-25-16902/69 | 21.10.2026</title>
-      <link>https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</link>
-      <description>Kohtumäärus | Aktsiaseltsi NT Bunkering panktortihalduri Margus Lentsiuse määruskaebus Tallinna Ringkonnakohtu 13.02.2026 määruse peale 	Aktsiaseltsi NT Bunkering pankrotiavalduses</description>
-      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>5-26-41/2 | 21.10.2026</title>
       <link>https://rikos.rik.ee/?asjaNr=5-26-41%2F2</link>
       <description>Asjade ühendamise määrus | Õiguskantsleri taotlus tunnistada põhiseadusvastaseks ja kehtetuks Räpina Vallavolikogu 19.04.2023. a määruse nr 6 „Hooldustöötajate ja abihooldustöötajate kulude tasumise piirmäära kehtestamine“ § 1</description>
@@ -48,6 +41,13 @@
       <link>https://rikos.rik.ee/?asjaNr=3-25-3207%2F22</link>
       <description>Kohtumäärus | XXX määruskaebus Tartu Ringkonnakohtu 8.01.2026 määruse peale XXX kaebuses Tartu Vangla peale</description>
       <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=3-25-3207%2F22</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-25-16902/69 | 21.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</link>
+      <description>Kohtumäärus | Aktsiaseltsi NT Bunkering panktortihalduri Margus Lentsiuse määruskaebus Tallinna Ringkonnakohtu 13.02.2026 määruse peale 	Aktsiaseltsi NT Bunkering pankrotiavalduses</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
