@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>et</language>
-    <lastBuildDate>Wed, 18 Nov 2026 04:14:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:04:42 +0000</lastBuildDate>
     <item>
       <title>1-23-7004/16 | 19.10.2026</title>
       <link>https://rikos.rik.ee/?asjaNr=1-23-7004%2F16</link>
@@ -23,6 +23,13 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>2-25-16902/69 | 21.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</link>
+      <description>Kohtumäärus | Aktsiaseltsi NT Bunkering panktortihalduri Margus Lentsiuse määruskaebus Tallinna Ringkonnakohtu 13.02.2026 määruse peale 	Aktsiaseltsi NT Bunkering pankrotiavalduses</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>5-26-41/2 | 21.10.2026</title>
       <link>https://rikos.rik.ee/?asjaNr=5-26-41%2F2</link>
       <description>Asjade ühendamise määrus | Õiguskantsleri taotlus tunnistada põhiseadusvastaseks ja kehtetuks Räpina Vallavolikogu 19.04.2023. a määruse nr 6 „Hooldustöötajate ja abihooldustöötajate kulude tasumise piirmäära kehtestamine“ § 1</description>
@@ -34,13 +41,6 @@
       <link>https://rikos.rik.ee/?asjaNr=3-25-3207%2F22</link>
       <description>Kohtumäärus | XXX määruskaebus Tartu Ringkonnakohtu 8.01.2026 määruse peale XXX kaebuses Tartu Vangla peale</description>
       <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=3-25-3207%2F22</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2-25-16902/69 | 21.10.2026</title>
-      <link>https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</link>
-      <description>Kohtumäärus | Aktsiaseltsi NT Bunkering panktortihalduri Margus Lentsiuse määruskaebus Tallinna Ringkonnakohtu 13.02.2026 määruse peale 	Aktsiaseltsi NT Bunkering pankrotiavalduses</description>
-      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -176,6 +176,20 @@ töökord“ peale.</description>
       <description>Kohtuotsus | A kaitsja vandeadvokaat Indrek Sirgi kassatsioon Pärnu Maakohtu 12. mai 2026. a otsuse peale A väärteoasjas liiklusseaduse § 261 lg 1 järgi.</description>
       <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=4-25-4787%2F31</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>4-26-397/24 | 18.11.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=4-26-397%2F24</link>
+      <description>Kohtuotsus | Viktor Leontjevi kaitsja vandeadvokaat Arina Liskmann-Getsu kassatsioon Harju Maakohtu 18. mai 2026. a otsuse peale Viktor Leontjevi väärteoasjas liiklusseaduse § 223 lg 1 järgi.</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=4-26-397%2F24</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-24-11813/34 | 18.11.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-24-11813%2F34</link>
+      <description>Kohtumäärus | TYCOON OÜ määruskaebus Tallinna Ringkonnakohtu 15.05.2026 määruse peale TYCOON OÜ avalduses Tallinn, Võistluse tn 6 korteriühistu 30. juuni 2024. a üldkoosoleku otsuste vaidlustamiseks</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-24-11813%2F34</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
