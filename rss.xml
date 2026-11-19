@@ -2,24 +2,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Riigikohtu uued lahendid</title>
-    <link>https://rikos.rik.ee/?otsuseKpalgus=19.10.2026&amp;otsuseKpLopp=18.11.2026&amp;pageSize=100&amp;sortVaartus=LahendiKuulutamiseAeg&amp;sortAsc=false</link>
+    <link>https://rikos.rik.ee/?otsuseKpalgus=20.10.2026&amp;otsuseKpLopp=19.11.2026&amp;pageSize=100&amp;sortVaartus=LahendiKuulutamiseAeg&amp;sortAsc=false</link>
     <description>Riigikohtu viimased avaldatud lahendid</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>et</language>
-    <lastBuildDate>Wed, 18 Nov 2026 21:23:50 +0000</lastBuildDate>
-    <item>
-      <title>1-23-7004/16 | 19.10.2026</title>
-      <link>https://rikos.rik.ee/?asjaNr=1-23-7004%2F16</link>
-      <description>Kohtuotsus | A kaitsja vandeadvokaat Vladimir Sadekovi teistmisavaldus Harju Maakohtu 18. detsembri 2023. a otsuse peale kriminaalasjas A süüditunnistamises KarS § 133² lg 1 järgi.</description>
-      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=1-23-7004%2F16</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Nov 2026 03:20:31 +0000</lastBuildDate>
     <item>
       <title>2-16-14682/140 | 21.10.2026</title>
       <link>https://rikos.rik.ee/?asjaNr=2-16-14682%2F140</link>
       <description>Kolleegiumi kogu koosseisule andmise määrus | Kaja Kasemetsa, Aivar Haugi, Svetlana Vahteri, Ene Sepa, Rolf-Pelle Laasi määruskaebus Tallinna Ringkonnakohtu 31.07.2025 määruse peale Margit Eskeni ja Egert Eskeni (Urmas Eskeni õigusjärglased) avalduses Kaja Kasemetsa, Aivar Haugi, Ene Sepa ja Rolf-Pelle Laasi vastu endise olukorra taastamise nõudes; Margit Eskeni ja Egert Eskeni avalduses Kaja Kasemetsa, Aivar Haugi, Svetlana Vahteri, Ene Sepa ja Rolf-Pelle Laasi vastu erikasutusõiguse kokkulepe sõlmimiseks ja kinnistusraamatusse kandmiseks vajalike tahteavalduste andmiseks või tahteavalduste kohtulahendiga asendamiseks; Kaja Kasemetsa, Svetlana Vahteri, Ene Sepa ja Rolf-Pelle Laasi vastuavalduses Margit Eskeni ja Egert Eskeni vastu grillmaja lammutamiseks kohustamiseks</description>
       <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-16-14682%2F140</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2-25-16902/69 | 21.10.2026</title>
+      <link>https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</link>
+      <description>Kohtumäärus | Aktsiaseltsi NT Bunkering panktortihalduri Margus Lentsiuse määruskaebus Tallinna Ringkonnakohtu 13.02.2026 määruse peale 	Aktsiaseltsi NT Bunkering pankrotiavalduses</description>
+      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -34,13 +34,6 @@
       <link>https://rikos.rik.ee/?asjaNr=3-25-3207%2F22</link>
       <description>Kohtumäärus | XXX määruskaebus Tartu Ringkonnakohtu 8.01.2026 määruse peale XXX kaebuses Tartu Vangla peale</description>
       <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=3-25-3207%2F22</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2-25-16902/69 | 21.10.2026</title>
-      <link>https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</link>
-      <description>Kohtumäärus | Aktsiaseltsi NT Bunkering panktortihalduri Margus Lentsiuse määruskaebus Tallinna Ringkonnakohtu 13.02.2026 määruse peale 	Aktsiaseltsi NT Bunkering pankrotiavalduses</description>
-      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-25-16902%2F69</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
