@@ -2,33 +2,12 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Riigikohtu uued lahendid</title>
-    <link>https://rikos.rik.ee/?otsuseKpalgus=23.10.2026&amp;otsuseKpLopp=22.11.2026&amp;pageSize=100&amp;sortVaartus=LahendiKuulutamiseAeg&amp;sortAsc=false</link>
+    <link>https://rikos.rik.ee/?otsuseKpalgus=24.10.2026&amp;otsuseKpLopp=23.11.2026&amp;pageSize=100&amp;sortVaartus=LahendiKuulutamiseAeg&amp;sortAsc=false</link>
     <description>Riigikohtu viimased avaldatud lahendid</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>et</language>
-    <lastBuildDate>Sun, 22 Nov 2026 18:30:38 +0000</lastBuildDate>
-    <item>
-      <title>2-22-10417/156 | 23.10.2026</title>
-      <link>https://rikos.rik.ee/LahendiOtsingEriVaade?asjaNr=2-22-10417</link>
-      <description>Kohtumäärus | /DIGITAALNE MENETLUS/ Tallinna Tehnikaülikooli kassatsioonkaebus Tallinna Ringkonnakohtu 27.03.2026 otsuse peale Tallinna Tehnikaülikooli hagis AKTSIASELTSI TALLINNA VESI vastu õigusvastaselt tekitatud kahju hüvitamiseks, alternatiivselt lepinguliste kohustuste rikkumisest tuleneva kahju hüvitamiseks või alusetust rikastumisest tuleneva hüvitise maksmiseks</description>
-      <guid isPermaLink="false">https://rikos.rik.ee/LahendiOtsingEriVaade?asjaNr=2-22-10417</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>4-25-2839/33 | 23.10.2026</title>
-      <link>https://rikos.rik.ee/?asjaNr=4-25-2839%2F33</link>
-      <description>Kohtuotsus | Kiviõli Keemiatööstuse Osaühingu kaitsja vandeadvokaat Rauno Ligi kassatsioon Viru Maakohtu 30. jaanuari 2026. a otsuse peale Kiviõli Keemiatööstuse Osaühingu väärteoasjas tööstusheite seaduse § 162 lg 2 järgi.</description>
-      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=4-25-2839%2F33</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>3-22-990/29 | 23.10.2026</title>
-      <link>https://rikos.rik.ee/LahendiOtsingEriVaade?asjaNr=3-22-990</link>
-      <description>Üldkogule andmise määrus | Kaebajate kassatsioonkaebus Tartu Ringkonnakohtu 16.10.2025 otsuse peale kaebajate kaebuses Maksu- ja Tolliameti, Kaitsepolitseiameti ja prokuratuuri tegevuse õigusvastasuse tuvastamiseks ning mittevaralise kahju hüvitamiseks</description>
-      <guid isPermaLink="false">https://rikos.rik.ee/LahendiOtsingEriVaade?asjaNr=3-22-990</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Nov 2026 00:14:58 +0000</lastBuildDate>
     <item>
       <title>2-22-11758/70 | 28.10.2026</title>
       <link>https://rikos.rik.ee/?asjaNr=2-22-11758%2F70</link>
