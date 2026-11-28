@@ -2,19 +2,12 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Riigikohtu uued lahendid</title>
-    <link>https://rikos.rik.ee/?otsuseKpalgus=28.10.2026&amp;otsuseKpLopp=27.11.2026&amp;pageSize=100&amp;sortVaartus=LahendiKuulutamiseAeg&amp;sortAsc=false</link>
+    <link>https://rikos.rik.ee/?otsuseKpalgus=29.10.2026&amp;otsuseKpLopp=28.11.2026&amp;pageSize=100&amp;sortVaartus=LahendiKuulutamiseAeg&amp;sortAsc=false</link>
     <description>Riigikohtu viimased avaldatud lahendid</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>et</language>
-    <lastBuildDate>Fri, 27 Nov 2026 23:25:07 +0000</lastBuildDate>
-    <item>
-      <title>2-22-11758/70 | 28.10.2026</title>
-      <link>https://rikos.rik.ee/?asjaNr=2-22-11758%2F70</link>
-      <description>Kohtuotsus | Suur-Ameerika Jäähalli OÜ (likvideerimisel) kassatsioonkaebus Tallinna Ringkonnakohtu 16.01.2026 otsuse peale OÜ EJHL Kinnisvara hagis Suur Ameerika Jäähalli OÜ (likvideerimisel) vastu 567 966,67 eurot ja viivise väljamõistmiseks</description>
-      <guid isPermaLink="false">https://rikos.rik.ee/?asjaNr=2-22-11758%2F70</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Nov 2026 07:39:48 +0000</lastBuildDate>
     <item>
       <title>4-25-4722/12 | 30.10.2026</title>
       <link>https://rikos.rik.ee/?asjaNr=4-25-4722%2F12</link>
